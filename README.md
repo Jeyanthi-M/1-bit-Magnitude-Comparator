@@ -13,10 +13,14 @@ Tools used
 2. [Reference Circuit Details](#referencecircuitdetails)
 3. [Reference Circuit Waveforms](#referencecircuitwaveforms)
 4. [Tools used](#toolsused)
+5. [Simulation in Synopsys](#simulationinsynopsys)
+- 6. [Pre-Layout Schematics](#pre-layoutschematics)
 
 
 ## Abstract
 ## Reference Circuit Details
 ## Reference Circuit Waveforms
 ## Tools used
+# Simulation in Synopsys
+-# Pre-Layout Schematics
 
