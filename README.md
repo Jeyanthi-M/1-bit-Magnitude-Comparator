@@ -24,7 +24,7 @@ Tools used
 6. [Conclusion](#Conclusion)
 7. [Author](#Author)
 8. [Acknowledgement](#Acknowledgement)
-9. [References](#References)https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/
+9. [References](#References)
 
 
 
@@ -40,13 +40,18 @@ Tools used
 ## 1-bit Magnitude Comparator Circuit for testing
 ## Output Waveform
 ## Conclusion
-# Author - https://www.vlsisystemdesign.com/
+# Author
 # Acknowledgement
   1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
   2. Chinmay panda, IIT Hyderabad
   3. Sameer Durgoji, NIT Karnataka
   4. [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
   5. [VLSI Custom Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
+  6. [Synopsys India](https://www.synopsys.com/)
 # References
+  1.Improved Design of CMOS 1-Bit Comparator with Stacking Technique. Arvindkumar, Manoj Kumar. 2017 2nd International Conference on Telecommunication network.
+  2.https://www.researchgate.net/publication/303805925_1_Bit_Comparator_CMOS_90nm_Layout_Design#:~:text=The%20comparator%20is%20a%20circuit,analog%2Dto%2Ddigital%20converter.
+
+
 
 
