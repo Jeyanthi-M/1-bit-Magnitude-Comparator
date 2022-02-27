@@ -21,17 +21,26 @@ Tools used
    - [1-bit Magnitude Comparator Circuit for testing](#1-bitMagnitudeComparatorCircuitfortesting)
    - [Netlist of the Circuit](#NetlistoftheCircuit)
    - [Output Waveform](#OutputWaveform)
+6. [Conclusion](#Conclusion)
+7. [Author](#Author)
+8. [Acknowledgement](#Acknowledgement)
+9. [References](#References)
 
 
-## Abstract
-## Reference Circuit Details
-## Reference Circuit Waveforms
-## Tools used
-## Simulation in Synopsys
+
+# Abstract
+# Reference Circuit Details
+# Reference Circuit Waveforms
+# Tools used
+# Simulation in Synopsys
 ## Pre-Layout Schematics
 ## Parameters set for Voltage Source for Input A
 ## Parameters set for Voltage Source for Input B
 ## 1-bit Magnitude Comparator Circuit for testing
 ## Output Waveform
+## Conclusion
+# Author
+# Acknowledgement
+# References
 
 
