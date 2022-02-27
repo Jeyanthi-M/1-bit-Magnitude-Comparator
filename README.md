@@ -14,7 +14,8 @@ Tools used
 3. [Reference Circuit Waveforms](#referencecircuitwaveforms)
 4. [Tools used](#toolsused)
 5. [Simulation in Synopsys](#simulationinsynopsys)
-- 6. [Pre-Layout Schematics](#pre-layoutschematics)
+-  [Pre-Layout Schematics](#pre-layoutschematics)
+6. [Parameters set for Voltage Source for Input A](#ParameterssetforVoltageSourceforInput A)
 
 
 ## Abstract
@@ -22,5 +23,7 @@ Tools used
 ## Reference Circuit Waveforms
 ## Tools used
 # Simulation in Synopsys
--# Pre-Layout Schematics
+# Pre-Layout Schematics
+# Parameters set for Voltage Source for Input A
+
 
