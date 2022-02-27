@@ -10,7 +10,7 @@ Tools used
 
 # Table of Contents
 1. [Abstract](#abstract)
-2. [Reference Circuit Details](#reference circuit details)
+2. [Reference Circuit Details](#referencecircuitdetails)
 
 ## Abstract
 ## Reference Circuit Details
