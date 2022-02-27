@@ -11,7 +11,12 @@ Tools used
 # Table of Contents
 1. [Abstract](#abstract)
 2. [Reference Circuit Details](#referencecircuitdetails)
+3. [Reference Circuit Waveforms](#referencecircuitwaveforms)
+4. [Tools used](#toolsused)
+
 
 ## Abstract
 ## Reference Circuit Details
+## Reference Circuit Waveforms
+## Tools used
 
