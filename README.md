@@ -15,15 +15,15 @@ Tools used
 4. [Tools used](#toolsused)
 5. [Simulation in Synopsys](#simulationinsynopsys)
 -  [Pre-Layout Schematics](#pre-layoutschematics)
-6. [Parameters set for Voltage Source for Input A](#ParameterssetforVoltageSourceforInput A)
+6. [Parameters set for Voltage Source for Input A](#ParameterssetforVoltageSourceforInputA)
 
 
 ## Abstract
 ## Reference Circuit Details
 ## Reference Circuit Waveforms
 ## Tools used
-# Simulation in Synopsys
-# Pre-Layout Schematics
-# Parameters set for Voltage Source for Input A
+## Simulation in Synopsys
+## Pre-Layout Schematics
+## Parameters set for Voltage Source for Input A
 
 
