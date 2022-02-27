@@ -16,6 +16,11 @@ Tools used
 5. [Simulation in Synopsys](#simulationinsynopsys)
    - [Pre-Layout Schematics](#pre-layoutschematics)
    - [Parameters set for Voltage Source for Input A](#ParameterssetforVoltageSourceforInputA)
+   - [Parameters set for Voltage Source for Input B](#ParameterssetforVoltageSourceforInputB)
+   - [Transient Settings](#TransientSettings)
+   - [1-bit Magnitude Comparator Circuit for testing](#1-bitMagnitudeComparatorCircuitfortesting)
+   - [Netlist of the Circuit](#NetlistoftheCircuit)
+   - [Output Waveform](#OutputWaveform)
 
 
 ## Abstract
@@ -25,5 +30,8 @@ Tools used
 ## Simulation in Synopsys
 ## Pre-Layout Schematics
 ## Parameters set for Voltage Source for Input A
+## Parameters set for Voltage Source for Input B
+## 1-bit Magnitude Comparator Circuit for testing
+## Output Waveform
 
 
