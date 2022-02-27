@@ -24,7 +24,8 @@ Tools used
 6. [Conclusion](#Conclusion)
 7. [Author](#Author)
 8. [Acknowledgement](#Acknowledgement)
-9. [References](#References)
+9. [References](#References)https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/
+
 
 
 
@@ -39,8 +40,13 @@ Tools used
 ## 1-bit Magnitude Comparator Circuit for testing
 ## Output Waveform
 ## Conclusion
-# Author
+# Author - https://www.vlsisystemdesign.com/
 # Acknowledgement
+  1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+  2. Chinmay panda, IIT Hyderabad
+  3. Sameer Durgoji, NIT Karnataka
+  4. [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+  5. [VLSI Custom Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
 # References
 
 
