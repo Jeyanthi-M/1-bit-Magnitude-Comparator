@@ -61,7 +61,7 @@ Fig 3. Combinational Circuit
 
 ## Reference Circuit Waveforms
 
-![reference waveform](https://user-images.githubusercontent.com/100518323/156028010-4e6ffe3e-5245-4f65-8e09-5f3495b7ad13.png)
+![ref waveform](https://user-images.githubusercontent.com/100518323/156032320-b69c7c1a-5e76-404e-bfa1-982b53c0f014.PNG)
 
 ## Tools used
 ## Simulation in Synopsys
