@@ -6,11 +6,11 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 
 ## Table of Contents
 1. [Abstract](#abstract)
-2. [Reference Circuit Details](#referencecircuitdetails)
-3. [Reference Circuit Design](#ReferenceCircuitDesign)
-4. [Reference Circuit Waveforms](#referencecircuitwaveforms)
-5. [Tools used](#toolsused)
-6. [Simulation in Synopsys](#simulationinsynopsys)
+2. [Reference Circuit Details](#ReferenceCircuitDetails)
+4. [Reference Circuit Design](#ReferenceCircuitDesign)
+5. [Reference Circuit Waveforms](#referencecircuitwaveforms)
+6. [Tools used](#toolsused)
+7. [Simulation in Synopsys](#simulationinsynopsys)
    - [Pre-Layout Schematics](#pre-layoutschematics)
    - [Parameters set for Voltage Source for Input A](#ParameterssetforVoltageSourceforInputA)
    - [Parameters set for Voltage Source for Input B](#ParameterssetforVoltageSourceforInputB)
@@ -18,10 +18,10 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
    - [1-bit Magnitude Comparator Circuit for testing](#1-bitMagnitudeComparatorCircuitfortesting)
    - [Netlist of the Circuit](#NetlistoftheCircuit)
    - [Output Waveform](#OutputWaveform)
-7. [Conclusion](#Conclusion)
-8. [Author](#Author)
-9. [Acknowledgement](#Acknowledgement)
-10. [References](#References)
+8. [Conclusion](#Conclusion)
+9. [Author](#Author)
+10. [Acknowledgement](#Acknowledgement)
+11. [References](#References)
 
 
 
