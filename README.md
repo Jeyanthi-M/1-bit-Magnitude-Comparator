@@ -31,9 +31,18 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 ## Tools used
 ## Simulation in Synopsys
 ## Pre-Layout Schematics
+
+![comparator schematic](https://user-images.githubusercontent.com/100518323/156026811-2769a02d-b2e6-4bc7-98d7-1bd047b4c20c.PNG)
+
+
+![Comparator Symbol](https://user-images.githubusercontent.com/100518323/156026985-2bfca537-217f-492a-a4cf-a74290ca48f9.PNG)
+
 ## Parameters set for Voltage Source for Input A
 ## Parameters set for Voltage Source for Input B
 ## Transient Settings
+
+![Transiant Analysis](https://user-images.githubusercontent.com/100518323/156026726-92e26efb-836d-423b-9236-877c0632e562.PNG)
+
 ## 1-bit Magnitude Comparator Circuit for testing
 
 ![Circuit for testing](https://user-images.githubusercontent.com/100518323/156026435-d4cbe864-0e45-40b2-b0ef-21831c8e7918.PNG)
