@@ -64,7 +64,14 @@ Fig 3. Combinational Circuit
 ![ref waveform](https://user-images.githubusercontent.com/100518323/156032320-b69c7c1a-5e76-404e-bfa1-982b53c0f014.PNG)
 
 ## Tools used
-## Simulation in Synopsys
+
+- Synopsys Custom Compiler: The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
+
+- Synopsys Primewave:  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
+-
+- Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
+
+# Simulation in Synopsys
 ## Pre-Layout Schematics
 
 ![comparator schematic](https://user-images.githubusercontent.com/100518323/156026811-2769a02d-b2e6-4bc7-98d7-1bd047b4c20c.PNG)
@@ -187,6 +194,7 @@ v13 net24 gnd! dc=0.9
 ```
 ## Conclusion
 ## Author
+ Jeyanthi M, BE(Electronics and Communication Engineering), Thiagarajar College of Engineering, Madurai-625051
 ## Acknowledgement
   1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
   2. Chinmay panda, IIT Hyderabad
