@@ -57,7 +57,7 @@ Fig 3. Combinational Circuit
 
 ## Reference Circuit Design
 
-![reference circuit](https://user-images.githubusercontent.com/100518323/156027928-ef34d49b-c7a6-41ac-bbea-4b37f6f99149.png)
+![ref circuit](https://user-images.githubusercontent.com/100518323/156031931-ca3e359b-52bf-4fc9-bb2f-42b7045f3f60.PNG)
 
 ## Reference Circuit Waveforms
 
