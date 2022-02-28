@@ -35,6 +35,9 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 ## Parameters set for Voltage Source for Input B
 ## 1-bit Magnitude Comparator Circuit for testing
 ## Output Waveform
+
+![Output Waveform](https://user-images.githubusercontent.com/100518323/155939705-d43a1489-9b41-49e5-9269-2b08001990e9.JPG)
+
 ## Conclusion
 # Author
 # Acknowledgement
