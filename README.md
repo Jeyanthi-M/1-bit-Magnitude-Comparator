@@ -40,6 +40,7 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 
 ## Netlist
 '''
+
 *  Generated for: PrimeSim
 *  Design library name: cp_lib1
 *  Design cell name: cp_comparator_tb
@@ -128,6 +129,7 @@ v13 net24 gnd! dc=0.9
 
 
 .end
+
 '''
 
 ## Conclusion
