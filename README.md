@@ -33,13 +33,16 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 ## Pre-Layout Schematics
 ## Parameters set for Voltage Source for Input A
 ## Parameters set for Voltage Source for Input B
+## Transient Settings
 ## 1-bit Magnitude Comparator Circuit for testing
+## Netlist of the Circuit
 ## Output Waveform
 
 ![OutputWaveforms](https://user-images.githubusercontent.com/100518323/155940267-744ff2c9-53d7-4152-bf77-68dfbdff9b0c.PNG)
 
 ## Netlist
-'''
+Some basic Git commands are:
+```
 
 *  Generated for: PrimeSim
 *  Design library name: cp_lib1
@@ -129,18 +132,18 @@ v13 net24 gnd! dc=0.9
 
 
 .end
-'''
+```
 
 ## Conclusion
-# Author
-# Acknowledgement
+## Author
+## Acknowledgement
   1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
   2. Chinmay panda, IIT Hyderabad
   3. Sameer Durgoji, NIT Karnataka
   4. [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
   5. [VLSI Custom Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
   6. [Synopsys India](https://www.synopsys.com/)
-# References
+## References
   1.Improved Design of CMOS 1-Bit Comparator with Stacking Technique. Arvindkumar, Manoj Kumar. 2017 2nd International Conference on Telecommunication network.
   2.https://www.researchgate.net/publication/303805925_1_Bit_Comparator_CMOS_90nm_Layout_Design#:~:text=The%20comparator%20is%20a%20circuit,analog%2Dto%2Ddigital%20converter.
 
