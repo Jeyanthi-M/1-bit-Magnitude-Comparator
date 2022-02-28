@@ -51,7 +51,7 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 
 ## Parameters set for Voltage Source for Input B
 
-![B input](https://user-images.githubusercontent.com/100518323/156028585-4dfc3b6e-7fec-4c95-baf5-d5e01c5ae11e.PNG)
+![B input](https://user-images.githubusercontent.com/100518323/156029747-6db07c50-8537-45a4-b94e-568089c27122.png)
 
 ## Transient Settings
 
