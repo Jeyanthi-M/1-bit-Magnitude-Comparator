@@ -7,9 +7,10 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 ## Table of Contents
 1. [Abstract](#abstract)
 2. [Reference Circuit Details](#referencecircuitdetails)
-3. [Reference Circuit Waveforms](#referencecircuitwaveforms)
-4. [Tools used](#toolsused)
-5. [Simulation in Synopsys](#simulationinsynopsys)
+3. [Reference Circuit Design](#ReferenceCircuitDesign)
+4. [Reference Circuit Waveforms](#referencecircuitwaveforms)
+5. [Tools used](#toolsused)
+6. [Simulation in Synopsys](#simulationinsynopsys)
    - [Pre-Layout Schematics](#pre-layoutschematics)
    - [Parameters set for Voltage Source for Input A](#ParameterssetforVoltageSourceforInputA)
    - [Parameters set for Voltage Source for Input B](#ParameterssetforVoltageSourceforInputB)
@@ -17,17 +18,24 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
    - [1-bit Magnitude Comparator Circuit for testing](#1-bitMagnitudeComparatorCircuitfortesting)
    - [Netlist of the Circuit](#NetlistoftheCircuit)
    - [Output Waveform](#OutputWaveform)
-6. [Conclusion](#Conclusion)
-7. [Author](#Author)
-8. [Acknowledgement](#Acknowledgement)
-9. [References](#References)
+7. [Conclusion](#Conclusion)
+8. [Author](#Author)
+9. [Acknowledgement](#Acknowledgement)
+10. [References](#References)
 
 
 
 
 ## Abstract
 ## Reference Circuit Details
+## Reference Circuit Design
+
+![reference circuit](https://user-images.githubusercontent.com/100518323/156027928-ef34d49b-c7a6-41ac-bbea-4b37f6f99149.png)
+
 ## Reference Circuit Waveforms
+
+![reference waveform](https://user-images.githubusercontent.com/100518323/156028010-4e6ffe3e-5245-4f65-8e09-5f3495b7ad13.png)
+
 ## Tools used
 ## Simulation in Synopsys
 ## Pre-Layout Schematics
@@ -38,7 +46,13 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 ![Comparator Symbol](https://user-images.githubusercontent.com/100518323/156026985-2bfca537-217f-492a-a4cf-a74290ca48f9.PNG)
 
 ## Parameters set for Voltage Source for Input A
+
+![A input](https://user-images.githubusercontent.com/100518323/156028514-217740b5-ad6a-4809-8a3e-04774d1b1568.png)
+
 ## Parameters set for Voltage Source for Input B
+
+![B input](https://user-images.githubusercontent.com/100518323/156028585-4dfc3b6e-7fec-4c95-baf5-d5e01c5ae11e.PNG)
+
 ## Transient Settings
 
 ![Transiant Analysis](https://user-images.githubusercontent.com/100518323/156026726-92e26efb-836d-423b-9236-877c0632e562.PNG)
