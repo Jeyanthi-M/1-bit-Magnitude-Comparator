@@ -34,16 +34,26 @@ This repository presents the Implementation of CMOS based 1-bit Magnitude Compar
 
 A magnitude comparator is a hardware electronic device that takes two numbers as input in binary form and determines whether one number is greater than, less than or equal to the other number. The logical design of a circuit will have two inputs one for A and other for B and have three output terminals, one for A > B condition, one for A = B condition and one for A < B condition.
 
+![Block diagram](https://user-images.githubusercontent.com/100518323/156031063-23d96f5b-74d6-4a53-8c6e-b104bd2581d9.png)
+
+Fig 1. Block Diagram
+
+![Truth table](https://user-images.githubusercontent.com/100518323/156031204-a6603e4e-3cc0-4912-91f6-f8e7227ed732.png)
+
+
 
 
 From the above truth table logical expressions for each output can be expressed as:
 
-(A=B) = A'B'+AB=(AB'+A'B)'
-(A>B) = AB'=(A'+B)'
-(A<B) = A'B=(A+B')'
+- (A=B) = A'B'+AB=(AB'+A'B)'
+- (A>B) = AB'=(A'+B)'
+- (A<B) = A'B=(A+B')'
 
 By using these Boolean expressions, we can implement a logic circuit for this comparator as:
 
+![combinational circuit](https://user-images.githubusercontent.com/100518323/156031116-65157d87-4a90-480b-ab18-0ae09d9900fe.png)
+
+Fig 3. Combinational Circuit
 
 ## Reference Circuit Design
 
