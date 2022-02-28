@@ -7,10 +7,10 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 ## Table of Contents
 1. [Abstract](#abstract)
 2. [Reference Circuit Details](#ReferenceCircuitDetails)
-4. [Reference Circuit Design](#ReferenceCircuitDesign)
-5. [Reference Circuit Waveforms](#referencecircuitwaveforms)
-6. [Tools used](#toolsused)
-7. [Simulation in Synopsys](#simulationinsynopsys)
+3. [Reference Circuit Design](#ReferenceCircuitDesign)
+4. [Reference Circuit Waveforms](#referencecircuitwaveforms)
+5. [Tools used](#toolsused)
+6. [Simulation in Synopsys](#simulationinsynopsys)
    - [Pre-Layout Schematics](#pre-layoutschematics)
    - [Parameters set for Voltage Source for Input A](#ParameterssetforVoltageSourceforInputA)
    - [Parameters set for Voltage Source for Input B](#ParameterssetforVoltageSourceforInputB)
@@ -18,16 +18,15 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
    - [1-bit Magnitude Comparator Circuit for testing](#1-bitMagnitudeComparatorCircuitfortesting)
    - [Netlist of the Circuit](#NetlistoftheCircuit)
    - [Output Waveform](#OutputWaveform)
-8. [Conclusion](#Conclusion)
-9. [Author](#Author)
-10. [Acknowledgement](#Acknowledgement)
-11. [References](#References)
+7. [Conclusion](#Conclusion)
+8. [Author](#Author)
+9. [Acknowledgement](#Acknowledgement)
+10. [References](#References)
 
 
 
 
 ## Abstract
-
 This repository presents the Implementation of CMOS based 1-bit Magnitude Comparator in 28nm technology. Design and Implementation will be done using Synopsys Custom Design Platform. Data comparison is needed in digital systems while performing arithmetic or logical operations. A single bit magnitude digital comparator is a combinational circuit that compares two digital or binary numbers in order to find out whether one binary number is equal, less than or greater than the other binary number. The complete design implementation is done using CMOS technology which has the features such as low static power consumption, temperature stability and stronger anti-noise ability.
 ## Reference Circuit Details
 
