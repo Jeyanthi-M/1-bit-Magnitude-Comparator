@@ -35,13 +35,12 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 ## Parameters set for Voltage Source for Input B
 ## Transient Settings
 ## 1-bit Magnitude Comparator Circuit for testing
-## Netlist of the Circuit
 ## Output Waveform
 
 ![OutputWaveforms](https://user-images.githubusercontent.com/100518323/155940267-744ff2c9-53d7-4152-bf77-68dfbdff9b0c.PNG)
 
-## Netlist
-Some basic Git commands are:
+## Netlist of the Circuit
+
 ```
 
 *  Generated for: PrimeSim
@@ -133,7 +132,6 @@ v13 net24 gnd! dc=0.9
 
 .end
 ```
-
 ## Conclusion
 ## Author
 ## Acknowledgement
