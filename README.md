@@ -4,7 +4,7 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 # Implementation of CMOS based 1-bit Magnitude Comparator using 28nm Technology
 
 
-# Table of Contents
+## Table of Contents
 1. [Abstract](#abstract)
 2. [Reference Circuit Details](#referencecircuitdetails)
 3. [Reference Circuit Waveforms](#referencecircuitwaveforms)
@@ -25,11 +25,11 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 
 
 
-# Abstract
-# Reference Circuit Details
-# Reference Circuit Waveforms
-# Tools used
-# Simulation in Synopsys
+## Abstract
+## Reference Circuit Details
+## Reference Circuit Waveforms
+## Tools used
+## Simulation in Synopsys
 ## Pre-Layout Schematics
 ## Parameters set for Voltage Source for Input A
 ## Parameters set for Voltage Source for Input B
