@@ -29,7 +29,6 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 ## Abstract
 
 This repository presents the Implementation of CMOS based 1-bit Magnitude Comparator in 28nm technology. Design and Implementation will be done using Synopsys Custom Design Platform. Data comparison is needed in digital systems while performing arithmetic or logical operations. A single bit magnitude digital comparator is a combinational circuit that compares two digital or binary numbers in order to find out whether one binary number is equal, less than or greater than the other binary number. The complete design implementation is done using CMOS technology which has the features such as low static power consumption, temperature stability and stronger anti-noise ability.
-
 ## Reference Circuit Details
 
 A magnitude comparator is a hardware electronic device that takes two numbers as input in binary form and determines whether one number is greater than, less than or equal to the other number. The logical design of a circuit will have two inputs one for A and other for B and have three output terminals, one for A > B condition, one for A = B condition and one for A < B condition.
@@ -54,15 +53,12 @@ By using these Boolean expressions, we can implement a logic circuit for this co
 ![combinational circuit](https://user-images.githubusercontent.com/100518323/156031116-65157d87-4a90-480b-ab18-0ae09d9900fe.png)
 
 Fig 3. Combinational Circuit
-
 ## Reference Circuit Design
 
 ![ref circuit](https://user-images.githubusercontent.com/100518323/156031931-ca3e359b-52bf-4fc9-bb2f-42b7045f3f60.PNG)
-
 ## Reference Circuit Waveforms
 
 ![ref waveform](https://user-images.githubusercontent.com/100518323/156032320-b69c7c1a-5e76-404e-bfa1-982b53c0f014.PNG)
-
 ## Tools used
 
 - Synopsys Custom Compiler: The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
@@ -70,7 +66,6 @@ Fig 3. Combinational Circuit
 - Synopsys Primewave:  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
 -
 - Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
-
 # Simulation in Synopsys
 ## Pre-Layout Schematics
 
@@ -78,27 +73,21 @@ Fig 3. Combinational Circuit
 
 
 ![Comparator Symbol](https://user-images.githubusercontent.com/100518323/156026985-2bfca537-217f-492a-a4cf-a74290ca48f9.PNG)
-
 ## Parameters set for Voltage Source for Input A
 
 ![A input](https://user-images.githubusercontent.com/100518323/156028514-217740b5-ad6a-4809-8a3e-04774d1b1568.png)
-
 ## Parameters set for Voltage Source for Input B
 
 ![B input](https://user-images.githubusercontent.com/100518323/156029747-6db07c50-8537-45a4-b94e-568089c27122.png)
-
 ## Transient Settings
 
 ![Transiant Analysis](https://user-images.githubusercontent.com/100518323/156026726-92e26efb-836d-423b-9236-877c0632e562.PNG)
-
 ## 1-bit Magnitude Comparator Circuit for testing
 
 ![Circuit for testing](https://user-images.githubusercontent.com/100518323/156026435-d4cbe864-0e45-40b2-b0ef-21831c8e7918.PNG)
-
 ## Output Waveform
 
 ![OutputWaveforms](https://user-images.githubusercontent.com/100518323/155940267-744ff2c9-53d7-4152-bf77-68dfbdff9b0c.PNG)
-
 ## Netlist of the Circuit
 
 ```
