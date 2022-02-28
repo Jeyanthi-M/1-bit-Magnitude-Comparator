@@ -36,7 +36,8 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 ## 1-bit Magnitude Comparator Circuit for testing
 ## Output Waveform
 
-![Output Waveform](https://user-images.githubusercontent.com/100518323/155939705-d43a1489-9b41-49e5-9269-2b08001990e9.JPG)
+![OutputWaveforms](https://user-images.githubusercontent.com/100518323/155940267-744ff2c9-53d7-4152-bf77-68dfbdff9b0c.PNG)
+
 
 ## Conclusion
 # Author
