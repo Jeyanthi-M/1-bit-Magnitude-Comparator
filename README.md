@@ -6,7 +6,7 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 
 ## Table of Contents
 1. [Abstract](#abstract)
-2. [Reference Circuit Details](#ReferenceCircuitDetails)
+2. [Reference Circuit Details](#Reference Circuit Details)
 4. [Reference Circuit Design](#ReferenceCircuitDesign)
 5. [Reference Circuit Waveforms](#referencecircuitwaveforms)
 6. [Tools used](#toolsused)
