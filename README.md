@@ -27,7 +27,24 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 
 
 ## Abstract
+
+This repository presents the Implementation of CMOS based 1-bit Magnitude Comparator in 28nm technology. Design and Implementation will be done using Synopsys Custom Design Platform. Data comparison is needed in digital systems while performing arithmetic or logical operations. A single bit magnitude digital comparator is a combinational circuit that compares two digital or binary numbers in order to find out whether one binary number is equal, less than or greater than the other binary number. The complete design implementation is done using CMOS technology which has the features such as low static power consumption, temperature stability and stronger anti-noise ability.
+
 ## Reference Circuit Details
+
+A magnitude comparator is a hardware electronic device that takes two numbers as input in binary form and determines whether one number is greater than, less than or equal to the other number. The logical design of a circuit will have two inputs one for A and other for B and have three output terminals, one for A > B condition, one for A = B condition and one for A < B condition.
+
+
+
+From the above truth table logical expressions for each output can be expressed as:
+
+(A=B) = A'B'+AB=(AB'+A'B)'
+(A>B) = AB'=(A'+B)'
+(A<B) = A'B=(A+B')'
+
+By using these Boolean expressions, we can implement a logic circuit for this comparator as:
+
+
 ## Reference Circuit Design
 
 ![reference circuit](https://user-images.githubusercontent.com/100518323/156027928-ef34d49b-c7a6-41ac-bbea-4b37f6f99149.png)
