@@ -103,7 +103,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell with input and output
   <img 
     src="https://user-images.githubusercontent.com/100518323/156026985-2bfca537-217f-492a-a4cf-a74290ca48f9.PNG"
   >
-  <br/> <b>Fig. 7. Symbolic representation of comparator circuit, which could be used as a instance cell from library </b>
+  <br/> <b>Fig. 7. Symbolic representation of Comparator Circuit, which could be used as a instance cell from library </b>
 </p>
 
 
