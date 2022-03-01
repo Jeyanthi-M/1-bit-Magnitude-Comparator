@@ -6,7 +6,7 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 
 ## Table of Contents
 1. [Abstract](#abstract)
-2. [Reference Circuit Details](#ReferenceCircuitDetails)
+2. [Reference &nbsp; Circuit &nbsp; Details](#ReferenceCircuitDetails)
 3. [Reference Circuit Design](#ReferenceCircuitDesign)
 4. [Reference Circuit Waveforms](#referencecircuitwaveforms)
 5. [Tools used](#toolsused)
@@ -26,23 +26,23 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
 
 
 
+
 ## Abstract
 This repository presents the Implementation of CMOS based 1-bit Magnitude Comparator in 28nm technology. Design and Implementation will be done using Synopsys Custom Design Platform. Data comparison is needed in digital systems while performing arithmetic or logical operations. A single bit magnitude digital comparator is a combinational circuit that compares two digital or binary numbers in order to find out whether one binary number is equal, less than or greater than the other binary number. The complete design implementation is done using CMOS technology which has the features such as low static power consumption, temperature stability and stronger anti-noise ability.
-## Reference Circuit Details
+## Reference &nbsp; Circuit &nbsp; Details
 
 A magnitude comparator is a hardware electronic device that takes two numbers as input in binary form and determines whether one number is greater than, less than or equal to the other number. The logical design of a circuit will have two inputs one for A and other for B and have three output terminals, one for A > B condition, one for A = B condition and one for A < B condition.
 
 ![Block diagram](https://user-images.githubusercontent.com/100518323/156031063-23d96f5b-74d6-4a53-8c6e-b104bd2581d9.png)
 
-Fig 1. Block Diagram
+
 
 <p align="center">
-  Block diagram
+  Fig 1. Block Diagram
 </p>
 
-<p align="center">
-  <img width="60" height="200" src="![Truth table](https://user-images.githubusercontent.com/100518323/156031204-a6603e4e-3cc0-4912-91f6-f8e7227ed732.png)">
-</p>
+  ![Truth table](https://user-images.githubusercontent.com/100518323/156031204-a6603e4e-3cc0-4912-91f6-f8e7227ed732.png)
+
 
 
 
