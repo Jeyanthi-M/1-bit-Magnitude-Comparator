@@ -109,7 +109,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell was implemented,then 
 </p>
 
 
-## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;A
+## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;of&nbsp;Input&nbsp;A
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/100518323/156028514-217740b5-ad6a-4809-8a3e-04774d1b1568.png"
@@ -117,7 +117,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell was implemented,then 
   <br/> <b>Fig. 8. Parameters of Input A  </b>
 </p>
 
-## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;B
+## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;of&nbsp;Input&nbsp;B
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/100518323/156029747-6db07c50-8537-45a4-b94e-568089c27122.png"
