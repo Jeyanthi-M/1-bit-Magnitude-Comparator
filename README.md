@@ -18,34 +18,24 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
    - [Circuit&nbsp;for&nbsp;testing](#Circuitfortesting)
    - [Output&nbsp;Waveform](#OutputWaveform)
    - [Netlist&nbsp;of&nbsp;the&nbsp;Circuit](#NetlistoftheCircuit)
-   
 7. [Conclusion](#Conclusion)
 8. [Author](#Author)
 9. [Acknowledgement](#Acknowledgement)
 10. [References](#References)
 
 
-
-
-
 ## Abstract
-This repository presents the Implementation of CMOS based 1-bit Magnitude Comparator in 28nm technology. Design and Implementation will be done using Synopsys Custom Design Platform. Data comparison is needed in digital systems while performing arithmetic or logical operations. A single bit magnitude digital comparator is a combinational circuit that compares two digital or binary numbers in order to find out whether one binary number is equal, less than or greater than the other binary number. The complete design implementation is done using CMOS technology which has the features such as low static power consumption, temperature stability and stronger anti-noise ability.
-## Reference&nbsp;Circuit&nbsp;Details
+This repository presents the Implementation of CMOS based 1-bit Magnitude Comparator in 28nm technology. Design and Implementation is done using Synopsys Custom Design Platform. Data comparison is needed in digital systems while performing arithmetic or logical operations. A single bit magnitude digital comparator is a combinational circuit that compares two digital or binary numbers in order to find out whether one binary number is equal, less than or greater than the other binary number. The complete design implementation is done using CMOS technology which has the features such as low static power consumption, temperature stability and stronger anti-noise ability.
 
+## Reference&nbsp;Circuit&nbsp;Details
 A magnitude comparator is a hardware electronic device that takes two numbers as input in binary form and determines whether one number is greater than, less than or equal to the other number. The logical design of a circuit will have two inputs one for A and other for B and have three output terminals, one for A > B condition, one for A = B condition and one for A < B condition.
 
 ![Block diagram](https://user-images.githubusercontent.com/100518323/156031063-23d96f5b-74d6-4a53-8c6e-b104bd2581d9.png)
-
-
-
 <p align="center">
   Fig 1. Block Diagram
 </p>
 
-  ![Truth table](https://user-images.githubusercontent.com/100518323/156031204-a6603e4e-3cc0-4912-91f6-f8e7227ed732.png)
-
-
-
+![Truth table](https://user-images.githubusercontent.com/100518323/156031204-a6603e4e-3cc0-4912-91f6-f8e7227ed732.png)
 
 From the above truth table logical expressions for each output can be expressed as:
 
@@ -56,43 +46,50 @@ From the above truth table logical expressions for each output can be expressed 
 By using these Boolean expressions, we can implement a logic circuit for this comparator as:
 
 ![combinational circuit](https://user-images.githubusercontent.com/100518323/156031116-65157d87-4a90-480b-ab18-0ae09d9900fe.png)
-
+<p align="center">
 Fig 3. Combinational Circuit
+</p>
+
 ## Reference&nbsp;Circuit&nbsp;Design
-
 ![ref circuit](https://user-images.githubusercontent.com/100518323/156031931-ca3e359b-52bf-4fc9-bb2f-42b7045f3f60.PNG)
+
 ## Reference&nbsp;Circuit&nbsp;Waveforms
-
 ![ref waveform](https://user-images.githubusercontent.com/100518323/156032320-b69c7c1a-5e76-404e-bfa1-982b53c0f014.PNG)
+
 ## Tools&nbsp;used
+- ### Synopsys Custom Compiler: 
+  The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys   Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the   circuit on a transistor level.
 
-- Synopsys Custom Compiler: The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
+- ### Synopsys Primewave:  
+  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and       memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
 
-- Synopsys Primewave:  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
--
-- Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
+- ### Synopsys 28nm PDK:  
+  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
+  
 # Simulation&nbsp;in&nbsp;Synopsys
+
 ## Pre-Layout&nbsp;Schematics
 
 ![comparator schematic](https://user-images.githubusercontent.com/100518323/156026811-2769a02d-b2e6-4bc7-98d7-1bd047b4c20c.PNG)
 
 
 ![Comparator Symbol](https://user-images.githubusercontent.com/100518323/156026985-2bfca537-217f-492a-a4cf-a74290ca48f9.PNG)
+
 ## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;A
-
 ![A input](https://user-images.githubusercontent.com/100518323/156028514-217740b5-ad6a-4809-8a3e-04774d1b1568.png)
+
 ## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;B
-
 ![B input](https://user-images.githubusercontent.com/100518323/156029747-6db07c50-8537-45a4-b94e-568089c27122.png)
+
 ## Transient&nbsp;Settings
-
 ![Transiant Analysis](https://user-images.githubusercontent.com/100518323/156026726-92e26efb-836d-423b-9236-877c0632e562.PNG)
-## 1-bit&nbsp;Magnitude&nbsp;Comparator&nbsp;Circuit&nbsp;for&nbsp;testing
 
+## Circuit&nbsp;for&nbsp;testing
 ![Circuit for testing](https://user-images.githubusercontent.com/100518323/156026435-d4cbe864-0e45-40b2-b0ef-21831c8e7918.PNG)
-## Output&nbsp;Waveform
 
+## Output&nbsp;Waveform
 ![OutputWaveforms](https://user-images.githubusercontent.com/100518323/155940267-744ff2c9-53d7-4152-bf77-68dfbdff9b0c.PNG)
+
 ## Netlist&nbsp;of&nbsp;the&nbsp;Circuit
 
 ```
@@ -196,10 +193,8 @@ v13 net24 gnd! dc=0.9
   4. [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
   5. [VLSI Custom Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
   6. [Synopsys India](https://www.synopsys.com/)
+  
 ## References
-  1.Improved Design of CMOS 1-Bit Comparator with Stacking Technique. Arvindkumar, Manoj Kumar. 2017 2nd International Conference on Telecommunication network.
-  2.https://www.researchgate.net/publication/303805925_1_Bit_Comparator_CMOS_90nm_Layout_Design#:~:text=The%20comparator%20is%20a%20circuit,analog%2Dto%2Ddigital%20converter.
-
-
-
+1.Improved Design of CMOS 1-Bit Comparator with Stacking Technique. Arvindkumar, Manoj Kumar. 2017 2nd International Conference on Telecommunication network.
+ 2.https://www.researchgate.net/publication/303805925_1_Bit_Comparator_CMOS_90nm_Layout_Design#:~:text=The%20comparator%20is%20a%20circuit,analog%2Dto%2Ddigital%20converter
 
