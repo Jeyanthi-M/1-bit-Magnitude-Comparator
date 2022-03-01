@@ -134,7 +134,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell with input and output
 
 
 ## Circuit&nbsp;for&nbsp;testing
-The Final Schematic of 1-bit magnitude comparator has been implemented using the above created symbol by providing A, B input Vpulse with 1.8V supply voltage , Vdc supply and Gnd with the input pins. 
+The Final Schematic of 1-bit magnitude comparator has been implemented using the above created symbol by providing A, B Vpulse with 1.8V supply voltage , Vdc supply and Gnd to the input pins. 
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/100518323/156026435-d4cbe864-0e45-40b2-b0ef-21831c8e7918.PNG"
