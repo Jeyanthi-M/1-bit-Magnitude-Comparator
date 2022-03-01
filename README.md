@@ -90,7 +90,7 @@ By using these Boolean expressions, we can implement a logic circuit for this co
 # Simulation&nbsp;in&nbsp;Synopsys
 
 ## Pre-Layout&nbsp;Schematics
-Initially Schematic of the 1-bit Magnitude Comparator cell was implemented,then it was converted into a symbol so that it could be used directly as instance cell from the library.
+Initially Schematic of the 1-bit Magnitude Comparator cell with input and output pins was implemented,then it was converted into a symbol so that it could be used directly as instance cell from the library.
 
 ### Schematic Diagram
 <p align="center">
@@ -136,7 +136,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell was implemented,then 
 
 
 ## Circuit&nbsp;for&nbsp;testing
-The Final Schematic of 1-bit magnitude comparator has been implemented using the above created symbol by providing A and B input Vpulse with 1.8V supply voltage , Vdc supply and Gnd. 
+The Final Schematic of 1-bit magnitude comparator has been implemented using the above created symbol by providing A, B input Vpulse with 1.8V supply voltage , Vdc supply and Gnd. 
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/100518323/156026435-d4cbe864-0e45-40b2-b0ef-21831c8e7918.PNG"
