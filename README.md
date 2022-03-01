@@ -118,7 +118,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell with input and output
 ## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;of&nbsp;Input&nbsp;B
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/100518323/156178113-f7012ed1-6159-4ccc-b090-fe7ebe900e51.PNG"
+    src="https://user-images.githubusercontent.com/100518323/156180063-cef91ca9-32a3-4d09-b375-d2768c9712b3.png"
   >
   <br/> <b>Fig. 9. Parameters of B  </b>
 </p>
