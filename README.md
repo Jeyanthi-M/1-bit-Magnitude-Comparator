@@ -14,10 +14,11 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
    - [Pre-Layout&nbsp;Schematics](#pre-layoutschematics)
    - [Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;A](#ParameterssetforVoltageSourceforInputA)
    - [Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;B](#ParameterssetforVoltageSourceforInputB)
-   - [Transient Settings](#TransientSettings)
-   - [1-bit Magnitude Comparator Circuit for testing](#1-bitMagnitudeComparatorCircuitfortesting)
-   - [Netlist of the Circuit](#NetlistoftheCircuit)
-   - [Output Waveform](#OutputWaveform)
+   - [Transient&nbsp;Settings](#TransientSettings)
+   - [1-bit&nbsp;Magnitude&nbsp;Comparator&nbsp;Circuit&nbsp;for&nbsp;testing](#1-bitMagnitudeComparatorCircuitfortesting)
+   - [Output&nbsp;Waveform](#OutputWaveform)
+   - [Netlist&nbsp;of&nbsp;the&nbsp;Circuit](#NetlistoftheCircuit)
+   
 7. [Conclusion](#Conclusion)
 8. [Author](#Author)
 9. [Acknowledgement](#Acknowledgement)
@@ -57,42 +58,42 @@ By using these Boolean expressions, we can implement a logic circuit for this co
 ![combinational circuit](https://user-images.githubusercontent.com/100518323/156031116-65157d87-4a90-480b-ab18-0ae09d9900fe.png)
 
 Fig 3. Combinational Circuit
-## Reference Circuit Design
+## Reference&nbsp;Circuit&nbsp;Design
 
 ![ref circuit](https://user-images.githubusercontent.com/100518323/156031931-ca3e359b-52bf-4fc9-bb2f-42b7045f3f60.PNG)
-## Reference Circuit Waveforms
+## Reference&nbsp;Circuit&nbsp;Waveforms
 
 ![ref waveform](https://user-images.githubusercontent.com/100518323/156032320-b69c7c1a-5e76-404e-bfa1-982b53c0f014.PNG)
-## Tools used
+## Tools&nbsp;used
 
 - Synopsys Custom Compiler: The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
 
 - Synopsys Primewave:  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
 -
 - Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
-# Simulation in Synopsys
-## Pre-Layout Schematics
+# Simulation&nbsp;in&nbsp;Synopsys
+## Pre-Layout&nbsp;Schematics
 
 ![comparator schematic](https://user-images.githubusercontent.com/100518323/156026811-2769a02d-b2e6-4bc7-98d7-1bd047b4c20c.PNG)
 
 
 ![Comparator Symbol](https://user-images.githubusercontent.com/100518323/156026985-2bfca537-217f-492a-a4cf-a74290ca48f9.PNG)
-## Parameters set for Voltage Source for Input A
+## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;A
 
 ![A input](https://user-images.githubusercontent.com/100518323/156028514-217740b5-ad6a-4809-8a3e-04774d1b1568.png)
-## Parameters set for Voltage Source for Input B
+## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;B
 
 ![B input](https://user-images.githubusercontent.com/100518323/156029747-6db07c50-8537-45a4-b94e-568089c27122.png)
-## Transient Settings
+## Transient&nbsp;Settings
 
 ![Transiant Analysis](https://user-images.githubusercontent.com/100518323/156026726-92e26efb-836d-423b-9236-877c0632e562.PNG)
-## 1-bit Magnitude Comparator Circuit for testing
+## 1-bit&nbsp;Magnitude&nbsp;Comparator&nbsp;Circuit&nbsp;for&nbsp;testing
 
 ![Circuit for testing](https://user-images.githubusercontent.com/100518323/156026435-d4cbe864-0e45-40b2-b0ef-21831c8e7918.PNG)
-## Output Waveform
+## Output&nbsp;Waveform
 
 ![OutputWaveforms](https://user-images.githubusercontent.com/100518323/155940267-744ff2c9-53d7-4152-bf77-68dfbdff9b0c.PNG)
-## Netlist of the Circuit
+## Netlist&nbsp;of&nbsp;the&nbsp;Circuit
 
 ```
 
