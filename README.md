@@ -93,7 +93,6 @@ Fig 3. Combinational Circuit
 ## Netlist&nbsp;of&nbsp;the&nbsp;Circuit
 
 ```
-
 *  Generated for: PrimeSim
 *  Design library name: cp_lib1
 *  Design cell name: cp_comparator_tb
@@ -187,12 +186,12 @@ v13 net24 gnd! dc=0.9
 ## Author
  Jeyanthi M, BE(Electronics and Communication Engineering), Thiagarajar College of Engineering, Madurai-625051
 ## Acknowledgement
-  1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
-  2. Chinmay panda, IIT Hyderabad
-  3. Sameer Durgoji, NIT Karnataka
-  4. [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
-  5. [VLSI Custom Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
-  6. [Synopsys India](https://www.synopsys.com/)
+ 1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+ 2. Chinmay panda, IIT Hyderabad
+ 3. Sameer Durgoji, NIT Karnataka
+ 4. [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+ 5. [VLSI Custom Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
+ 6. [Synopsys India](https://www.synopsys.com/)
   
 ## References
 1.Improved Design of CMOS 1-Bit Comparator with Stacking Technique. Arvindkumar, Manoj Kumar. 2017 2nd International Conference on Telecommunication network.
