@@ -1,5 +1,5 @@
-# 1-bit-Magnitude-Comparator
-This repository presents the Design and Implementation of 1-bit Magnitude Comparator using Synopsis Custom Design Compiler on 28nm CMOS Technology .
+# 1-bit-Magnitude Comparator
+This repository presents the Design and Implementation of 1-bit Magnitude Comparator using Synopsis Custom Design Compiler on 28nm CMOS Technology.
 
 # Implementation of CMOS based 1-bit Magnitude Comparator
 
@@ -58,14 +58,6 @@ By using these Boolean expressions, we can implement a logic circuit for this co
   <br/><b>Fig. 3.	Gate level Schematic Diagram of 1-bit Magnitude Comparator</b>
 </p>
 
-<p align="center">
-  <img 
-    src=""
-  >
-  <br/> <b>Fig. 4.  </b>
-</p>
-
- 
 ## Reference&nbsp;Circuit&nbsp;Design
 
 <p align="center">
@@ -98,15 +90,14 @@ By using these Boolean expressions, we can implement a logic circuit for this co
 # Simulation&nbsp;in&nbsp;Synopsys
 
 ## Pre-Layout&nbsp;Schematics
-
-### Schematic Diagram
 Initially Schematic of the 1-bit Magnitude Comparator cell was implemented,then it was converted into a symbol so that it could be used directly as instance cell from the library.
 
+### Schematic Diagram
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/100518323/156026811-2769a02d-b2e6-4bc7-98d7-1bd047b4c20c.PNG"
   >
-  <br/> <b>Fig. 6. Schematic Diagram of 1-bit Magnitude comparator circuit with PMOS  & NMOS transistors,Input and Output pins  </b>
+  <br/> <b>Fig. 6. Schematic Diagram of 1-bit Magnitude comparator circuit with PMOS,NMOS transistors,Input and Output pins  </b>
 </p>
 
 ### Symbol
@@ -145,7 +136,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell was implemented,then 
 
 
 ## Circuit&nbsp;for&nbsp;testing
-The Final Schematic of 1-bit magnitude comparator has been implemented using the above craeted symbol by provide A and B input Vpulse with 1.8V , Vdc supply and Gnd. 
+The Final Schematic of 1-bit magnitude comparator has been implemented using the above craeted symbol by providing A and B input Vpulse with 1.8V , Vdc supply and Gnd. 
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/100518323/156026435-d4cbe864-0e45-40b2-b0ef-21831c8e7918.PNG"
@@ -155,7 +146,6 @@ The Final Schematic of 1-bit magnitude comparator has been implemented using the
 
 
 ## Output&nbsp;Waveform
-![OutputWaveforms]()
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/100518323/155940267-744ff2c9-53d7-4152-bf77-68dfbdff9b0c.PNG"
