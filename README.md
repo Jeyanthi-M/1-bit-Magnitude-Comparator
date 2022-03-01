@@ -95,7 +95,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell with input and output
   <img 
     src="https://user-images.githubusercontent.com/100518323/156026811-2769a02d-b2e6-4bc7-98d7-1bd047b4c20c.PNG"
   >
-  <br/> <b>Fig. 6. Schematic Diagram of 1-bit Magnitude comparator circuit with PMOS,NMOS transistors,Input and Output pins  </b>
+  <br/> <b>Fig. 6. Schematic Diagram of 1-bit Magnitude comparator circuit with 10-PMOS4T,10-NMOS4T transistors,Input and Output pins  </b>
 </p>
 
 ### Symbol
@@ -245,7 +245,7 @@ v13 net24 gnd! dc=0.9
 .end
 ```
 ## Conclusion
- Thus,A CMOS based 1-bit Magnitude Comparator circuit has been designed and implemented using Synopsys Custom Design Compiler in 28nm technology and its Output Waveform 
+ Thus,A CMOS based 1-bit Magnitude Comparator circuit has been designed and implemented using Synopsys Custom Design Compiler in 28nm technology and its Output Waveforms 
  has been verified using Synopsys Primewave.
 ## Author
  Jeyanthi M, BE(Electronics and Communication Engineering), Thiagarajar College of Engineering, Madurai-625051
