@@ -1,7 +1,5 @@
-# 1-bit-Magnitude Comparator
-This repository presents the Design and Implementation of 1-bit Magnitude Comparator using Synopsis Custom Design Compiler on 28nm CMOS Technology.
 
-# Implementation of CMOS based 1-bit Magnitude Comparator
+# Implementation of CMOS based 1-bit Magnitude Comparator in 28nm Technology
 
 ## Table of Contents
 1. [Abstract](#abstract)
