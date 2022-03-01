@@ -1,8 +1,7 @@
 # 1-bit-Magnitude-Comparator
-This repository presents the Design and Implementation of 1-bit Magnitude Comparator using Synopsis custom Design Compiler on 28nm CMOS Technology .
+This repository presents the Design and Implementation of 1-bit Magnitude Comparator using Synopsis Custom Design Compiler on 28nm CMOS Technology .
 
-# Implementation of CMOS based 1-bit Magnitude Comparator using 28nm Technology
-
+# Implementation of CMOS based 1-bit Magnitude Comparator
 
 ## Table of Contents
 1. [Abstract](#abstract)
@@ -30,12 +29,19 @@ This repository presents the Implementation of CMOS based 1-bit Magnitude Compar
 ## Reference&nbsp;Circuit&nbsp;Details
 A magnitude comparator is a hardware electronic device that takes two numbers as input in binary form and determines whether one number is greater than, less than or equal to the other number. The logical design of a circuit will have two inputs one for A and other for B and have three output terminals, one for A > B condition, one for A = B condition and one for A < B condition.
 
-![Block diagram](https://user-images.githubusercontent.com/100518323/156031063-23d96f5b-74d6-4a53-8c6e-b104bd2581d9.png)
 <p align="center">
-  Fig 1. Block Diagram
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/156031063-23d96f5b-74d6-4a53-8c6e-b104bd2581d9.png"
+  >
+  <br/><b>Fig. 1.	 Block Diagram of 1-bit Magnitude Comparator</b>
 </p>
 
-![Truth table](https://user-images.githubusercontent.com/100518323/156031204-a6603e4e-3cc0-4912-91f6-f8e7227ed732.png)
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/156031204-a6603e4e-3cc0-4912-91f6-f8e7227ed732.png"
+  >
+  <br/><b>Fig. 2.	 Truth Table of 1-bit Magnitude Comparator</b>
+</p>
 
 From the above truth table logical expressions for each output can be expressed as:
 
@@ -45,16 +51,39 @@ From the above truth table logical expressions for each output can be expressed 
 
 By using these Boolean expressions, we can implement a logic circuit for this comparator as:
 
-![combinational circuit](https://user-images.githubusercontent.com/100518323/156031116-65157d87-4a90-480b-ab18-0ae09d9900fe.png)
 <p align="center">
-Fig 3. Combinational Circuit
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/156031116-65157d87-4a90-480b-ab18-0ae09d9900fe.png"
+  >
+  <br/><b>Fig. 3.	Gate level Schematic Diagram of 1-bit Magnitude Comparator</b>
 </p>
 
+<p align="center">
+  <img 
+    src=""
+  >
+  <br/> <b>Fig. 4.  </b>
+</p>
+
+ 
 ## Reference&nbsp;Circuit&nbsp;Design
-![ref circuit](https://user-images.githubusercontent.com/100518323/156031931-ca3e359b-52bf-4fc9-bb2f-42b7045f3f60.PNG)
+
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/156031931-ca3e359b-52bf-4fc9-bb2f-42b7045f3f60.PNG"
+  >
+  <br/> <b>Fig. 4. Reference Circuit Diagram of 1-bit Magnitude Compator using CMOS technology which consists of PMOS and NMOS transistors</b>
+</p>
 
 ## Reference&nbsp;Circuit&nbsp;Waveforms
-![ref waveform](https://user-images.githubusercontent.com/100518323/156032320-b69c7c1a-5e76-404e-bfa1-982b53c0f014.PNG)
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/156032320-b69c7c1a-5e76-404e-bfa1-982b53c0f014.PNG"
+  >
+  <br/> 
+   <b>Fig. 5. Reference Circuit Output Waveforms</b>
+</p>
+
 
 ## Tools&nbsp;used
 - ### Synopsys Custom Compiler: 
@@ -70,25 +99,70 @@ Fig 3. Combinational Circuit
 
 ## Pre-Layout&nbsp;Schematics
 
-![comparator schematic](https://user-images.githubusercontent.com/100518323/156026811-2769a02d-b2e6-4bc7-98d7-1bd047b4c20c.PNG)
+### Schematic Diagram
+Initially Schematic of the 1-bit Magnitude Comparator cell was implemented,then it was converted into a symbol so that it could be used directly as instance cell from the library.
 
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/156026811-2769a02d-b2e6-4bc7-98d7-1bd047b4c20c.PNG"
+  >
+  <br/> <b>Fig. 6. Schematic Diagram of 1-bit Magnitude comparator circuit with PMOS  & NMOS transistors,Input and Output pins  </b>
+</p>
 
-![Comparator Symbol](https://user-images.githubusercontent.com/100518323/156026985-2bfca537-217f-492a-a4cf-a74290ca48f9.PNG)
+### Symbol
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/156026985-2bfca537-217f-492a-a4cf-a74290ca48f9.PNG"
+  >
+  <br/> <b>Fig. 7. Symbolic representation of comparator circuit, which could be used as a instance cell from library </b>
+</p>
+
 
 ## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;A
-![A input](https://user-images.githubusercontent.com/100518323/156028514-217740b5-ad6a-4809-8a3e-04774d1b1568.png)
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/156028514-217740b5-ad6a-4809-8a3e-04774d1b1568.png"
+  >
+  <br/> <b>Fig. 8. Parameters of Input A  </b>
+</p>
 
 ## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;B
-![B input](https://user-images.githubusercontent.com/100518323/156029747-6db07c50-8537-45a4-b94e-568089c27122.png)
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/156029747-6db07c50-8537-45a4-b94e-568089c27122.png"
+  >
+  <br/> <b>Fig. 9. Prameters of B  </b>
+</p>
+
 
 ## Transient&nbsp;Settings
-![Transiant Analysis](https://user-images.githubusercontent.com/100518323/156026726-92e26efb-836d-423b-9236-877c0632e562.PNG)
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/156026726-92e26efb-836d-423b-9236-877c0632e562.PNG"
+  >
+  <br/> <b>Fig. 10.Transient settings  </b>
+</p>
+
 
 ## Circuit&nbsp;for&nbsp;testing
-![Circuit for testing](https://user-images.githubusercontent.com/100518323/156026435-d4cbe864-0e45-40b2-b0ef-21831c8e7918.PNG)
+The Final Schematic of 1-bit magnitude comparator has been implemented using the above craeted symbol by provide A and B input Vpulse with 1.8V , Vdc supply and Gnd. 
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/156026435-d4cbe864-0e45-40b2-b0ef-21831c8e7918.PNG"
+  >
+  <br/> <b>Fig. 11. 1-bit magnitude comparator circuit for testing </b>
+</p>
+
 
 ## Output&nbsp;Waveform
-![OutputWaveforms](https://user-images.githubusercontent.com/100518323/155940267-744ff2c9-53d7-4152-bf77-68dfbdff9b0c.PNG)
+![OutputWaveforms]()
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/100518323/155940267-744ff2c9-53d7-4152-bf77-68dfbdff9b0c.PNG"
+  >
+  <br/> <b>Fig. 12. Output Waveforms</b>
+</p>
+
 
 ## Netlist&nbsp;of&nbsp;the&nbsp;Circuit
 
@@ -186,12 +260,12 @@ v13 net24 gnd! dc=0.9
 ## Author
  Jeyanthi M, BE(Electronics and Communication Engineering), Thiagarajar College of Engineering, Madurai-625051
 ## Acknowledgement
- 1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
- 2. Chinmay panda, IIT Hyderabad
- 3. Sameer Durgoji, NIT Karnataka
- 4. [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
- 5. [VLSI Custom Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
- 6. [Synopsys India](https://www.synopsys.com/)
+1. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+2. Chinmay panda, IIT Hyderabad
+3. Sameer Durgoji, NIT Karnataka
+4. [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+5. [VLSI Custom Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
+6. [Synopsys India](https://www.synopsys.com/)
   
 ## References
 1.Improved Design of CMOS 1-Bit Comparator with Stacking Technique. Arvindkumar, Manoj Kumar. 2017 2nd International Conference on Telecommunication network.
