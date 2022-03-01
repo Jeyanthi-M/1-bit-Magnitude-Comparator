@@ -15,7 +15,7 @@ This repository presents the Design and Implementation of 1-bit Magnitude Compar
    - [Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;A](#ParameterssetforVoltageSourceforInputA)
    - [Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;for&nbsp;Input&nbsp;B](#ParameterssetforVoltageSourceforInputB)
    - [Transient&nbsp;Settings](#TransientSettings)
-   - [1-bit&nbsp;Magnitude&nbsp;Comparator&nbsp;Circuit&nbsp;for&nbsp;testing](#1-bitMagnitudeComparatorCircuitfortesting)
+   - [Circuit&nbsp;for&nbsp;testing](#Circuitfortesting)
    - [Output&nbsp;Waveform](#OutputWaveform)
    - [Netlist&nbsp;of&nbsp;the&nbsp;Circuit](#NetlistoftheCircuit)
    
