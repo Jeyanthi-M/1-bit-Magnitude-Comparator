@@ -219,9 +219,6 @@ v13 net24 gnd! dc=0.9
 
 
 
-
-
-
 .tran '1u' '20u' name=tran
 
 .option primesim_remove_probe_prefix = 0
@@ -236,9 +233,6 @@ v13 net24 gnd! dc=0.9
 
 
 .option parhier = LOCAL
-
-
-
 
 
 
