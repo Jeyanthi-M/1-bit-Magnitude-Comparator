@@ -29,14 +29,14 @@ A magnitude comparator is a hardware electronic device that takes two numbers as
 
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156177407-1fd9f887-a852-4734-ab8d-845d96991953.png"
   >
   <br/><b>Fig. 1.	 Block Diagram of 1-bit Magnitude Comparator</b>
 </p>
 
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156177500-81aa4e47-edf3-4c67-bc45-a97c030f9543.png"
   >
   <br/><b>Fig. 2.	 Truth Table of 1-bit Magnitude Comparator</b>
 </p>
@@ -51,7 +51,7 @@ By using these Boolean expressions, we can implement a logic circuit for this co
 
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156178244-2b43d6d1-5084-475d-afdb-26279635f087.png"
   >
   <br/><b>Fig. 3.	Gate level Schematic Diagram of 1-bit Magnitude Comparator</b>
 </p>
@@ -60,7 +60,7 @@ By using these Boolean expressions, we can implement a logic circuit for this co
 
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156177538-e9db2923-ffe7-49b3-a9fb-9c4ef614d0ca.PNG"
   >
   <br/> <b>Fig. 4. Reference Circuit Diagram of 1-bit Magnitude Compator using CMOS technology which consists of 10-PMOS4T and 10-NMOS4T transistors</b>
 </p>
@@ -68,7 +68,7 @@ By using these Boolean expressions, we can implement a logic circuit for this co
 ## Reference&nbsp;Circuit&nbsp;Waveforms
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156177682-f45ef271-d1e1-403b-b774-7929b4abfe83.PNG"
   >
   <br/> 
    <b>Fig. 5. Reference Circuit Output Waveforms</b>
@@ -93,7 +93,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell with input and output
 ### Schematic Diagram
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156177736-272660c5-57e6-4a4a-b9ee-86036c9801c5.PNG"
   >
   <br/> <b>Fig. 6. Schematic Diagram of 1-bit Magnitude comparator circuit with 10-PMOS4T,10-NMOS4T transistors,Input and Output pins  </b>
 </p>
@@ -101,7 +101,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell with input and output
 ### Symbol
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156177766-58cb046a-aec3-4f4a-9068-032399f72ed0.PNG"
   >
   <br/> <b>Fig. 7. Symbolic representation of Comparator Circuit, which could be used as a instance cell from library </b>
 </p>
@@ -110,7 +110,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell with input and output
 ## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;of&nbsp;Input&nbsp;A
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156178099-1e141823-618f-4191-b1c4-e63c03b4b9c8.png"
   >
   <br/> <b>Fig. 8. Parameters of Input A  </b>
 </p>
@@ -118,7 +118,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell with input and output
 ## Parameters&nbsp;set&nbsp;for&nbsp;Voltage&nbsp;Source&nbsp;of&nbsp;Input&nbsp;B
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156178113-f7012ed1-6159-4ccc-b090-fe7ebe900e51.PNG"
   >
   <br/> <b>Fig. 9. Parameters of B  </b>
 </p>
@@ -127,7 +127,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell with input and output
 ## Transient&nbsp;Settings
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156177927-d60cc500-90f9-4b4c-987d-6341f5f3fcf0.PNG"
   >
   <br/> <b>Fig. 10.Transient settings  </b>
 </p>
@@ -137,7 +137,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell with input and output
 The Final Schematic of 1-bit magnitude comparator has been implemented using the above created symbol by providing A, B Vpulse with 1.8V supply voltage , Vdc supply and Gnd to the input pins. 
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156177876-2d917aa0-150d-4c84-90e7-76c803af6970.PNG"
   >
   <br/> <b>Fig. 11. 1-bit magnitude comparator circuit for testing </b>
 </p>
@@ -146,7 +146,7 @@ The Final Schematic of 1-bit magnitude comparator has been implemented using the
 ## Output&nbsp;Waveform
 <p align="center">
   <img 
-    src=""
+    src="https://user-images.githubusercontent.com/100518323/156177849-62b04390-da4b-45e0-9074-1dbb3bcc08c6.PNG"
   >
   <br/> <b>Fig. 12. Output Waveforms</b>
 </p>
