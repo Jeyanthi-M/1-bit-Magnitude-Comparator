@@ -36,8 +36,9 @@ A magnitude comparator is a hardware electronic device that takes two numbers as
 
 Fig 1. Block Diagram
 
+<p align="center">
 ![Truth table](https://user-images.githubusercontent.com/100518323/156031204-a6603e4e-3cc0-4912-91f6-f8e7227ed732.png)
-
+</p>
 
 
 
