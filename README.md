@@ -62,7 +62,7 @@ By using these Boolean expressions, we can implement a logic circuit for this co
   <img 
     src="https://user-images.githubusercontent.com/100518323/156031931-ca3e359b-52bf-4fc9-bb2f-42b7045f3f60.PNG"
   >
-  <br/> <b>Fig. 4. Reference Circuit Diagram of 1-bit Magnitude Compator using CMOS technology which consists of PMOS and NMOS transistors</b>
+  <br/> <b>Fig. 4. Reference Circuit Diagram of 1-bit Magnitude Compator using CMOS technology which consists of 10-PMOS4T and 10-NMOS4T transistors</b>
 </p>
 
 ## Reference&nbsp;Circuit&nbsp;Waveforms
@@ -134,7 +134,7 @@ Initially Schematic of the 1-bit Magnitude Comparator cell with input and output
 
 
 ## Circuit&nbsp;for&nbsp;testing
-The Final Schematic of 1-bit magnitude comparator has been implemented using the above created symbol by providing A, B input Vpulse with 1.8V supply voltage , Vdc supply and Gnd. 
+The Final Schematic of 1-bit magnitude comparator has been implemented using the above created symbol by providing A, B input Vpulse with 1.8V supply voltage , Vdc supply and Gnd with the input pins. 
 <p align="center">
   <img 
     src="https://user-images.githubusercontent.com/100518323/156026435-d4cbe864-0e45-40b2-b0ef-21831c8e7918.PNG"
@@ -245,6 +245,8 @@ v13 net24 gnd! dc=0.9
 .end
 ```
 ## Conclusion
+ Thus,A CMOS based 1-bit Magnitude Comparator circuit has been designed and implemented using Synopsys Custom Design Compiler in 28nm technology and its Output Waveform 
+ has been verified using Synopsys Primewave.
 ## Author
  Jeyanthi M, BE(Electronics and Communication Engineering), Thiagarajar College of Engineering, Madurai-625051
 ## Acknowledgement
